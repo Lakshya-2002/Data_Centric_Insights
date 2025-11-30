@@ -61,6 +61,7 @@ The dashboard converts raw data into meaningful insights, enabling:
 - Used data storytelling to convert raw data into insights
 
 ## Overview:-   
-![Dashboard](./Dashboard Screenshots/dashboard.png)
+![Dashboard Preview](https://github.com/Lakshya-2002/Data_Centric_Insights/blob/main/Data_Centric_Insights.png)
+
 Created by **Lakshya**  
 If you liked this project, feel free to ⭐ the repository!  
